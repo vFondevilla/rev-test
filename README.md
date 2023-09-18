@@ -25,7 +25,9 @@ Or the cloud version using:
 make deploy-cloud
 ```
 
-Ideally this application would be deployed using a GitOps approach.
+Ideally this application would be deployed using a GitOps approach using ArgoCD or Flux
+
+
 
 
 
